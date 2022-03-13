@@ -1,0 +1,4 @@
+program 002helloagain;
+{
+    var float;
+}

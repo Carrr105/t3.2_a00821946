@@ -1,0 +1,13 @@
+program myfirstprogram;
+var firstVar: int; secondOne: float;
+{
+    firstVar = 200;
+    secondOne = (firstVar + 10);
+    print(firstVar);
+    print(secondOne);
+    if (firstVar > secondOne) {
+    print(1);
+  } else {
+    print(0);
+  };
+}
