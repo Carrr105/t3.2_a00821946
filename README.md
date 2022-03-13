@@ -3,10 +3,14 @@
 Carlos Gerardo Herrera Cortina - A00821946
 
 Comandos para flex & bison:
-    flex scanner.l
-    bison -dy parser.y
-    gcc lex.yy.c y.tab.c -o mycompiler
-    ./mycompiler
+```
+flex scanner.l
+bison -dy parser.y
+gcc lex.yy.c y.tab.c -o mycompiler
+./mycompiler
+```
 
 Para PLY ejecutar:
-    python3 lexyacc.py
+```
+python3 lexyacc.py
+```
