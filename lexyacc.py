@@ -218,7 +218,7 @@ parser = yacc.yacc()
 
 if __name__ == '__main__':
     try:
-        archivo = open('test_shouldfail.txt','r')
+        archivo = open('test_fail.txt','r')
         info = archivo.read()
         archivo.close()
         if(yacc.parse(info, tracking=True) == 'PROGRAM COMPILED'):
