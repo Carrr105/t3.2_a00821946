@@ -1,4 +1,4 @@
-#Tarea 3.2 de Diseño de Compiladores (grupo 2)
+# Tarea 3.2 de Diseño de Compiladores (grupo 2)
 
 Carlos Gerardo Herrera Cortina - A00821946
 
